@@ -16,7 +16,6 @@ def muat_dan_bagi_data(file_path, target_column):
     return df, X_train, X_test, y_train, y_test
 
 def simpan_hasil_dan_grafik(df, y_test, y_pred, r2_score):
-    
     os.makedirs('output', exist_ok=True)
     
     rata_harga = df['Price'].mean()
