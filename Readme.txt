@@ -3,6 +3,15 @@
 # ALGORITMA: LINEAR REGRESSION
 Linear Regression adalah salah satu algoritma Machine Learning paling dasar dan populer yang digunakan untuk memprediksi nilai numerik (regresi).
 
+
+========================================================================
+
+Nama : Gurat Jatianom
+Nim : 25.11.6403
+Kelas : IF03
+
+========================================================================
+
 ========================================================================
 1. DESKRIPSI PROJECT
 ========================================================================
